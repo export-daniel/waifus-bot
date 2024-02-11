@@ -6,7 +6,7 @@ import cheerio from 'cheerio'
 import fetch from 'node-fetch'
 import axios from 'axios'
 import moment from 'moment-timezone'
-import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js'
+import { en, es } from './lib/idiomas/total-idiomas.js'
 
 global.owner = [
 ['595973755967', 'Bot OFC', true], //il.ẉaifus.bot.il
